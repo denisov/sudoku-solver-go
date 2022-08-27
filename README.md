@@ -1,0 +1,1 @@
+Simple sudoku solver in golang. A proof of concept.
